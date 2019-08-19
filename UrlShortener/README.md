@@ -3,6 +3,7 @@ URL 을 입력받아 짧게 줄여주고, Shortening 된 URL 을 입력하면 �
 
 ## 설치 방법 (Installation)
 - localhost에서 was 구동 
+- 포트 : 8080
 
 ## 사용 방법 (Usage)
 - 프로그램 실행 후 url에 http://localhost:8080/index 입력
